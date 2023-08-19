@@ -11,7 +11,7 @@ public class Client {
         s1.printStudent();
 
         Student s2 = new Student();
-        s2.name = "Habeeba Ahmed";
+        s2.name = "Kartik Sachdeva";
         s2.printStudent();
     }
 }
