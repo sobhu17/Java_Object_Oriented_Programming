@@ -4,7 +4,7 @@ public class Client {
 
     public static void main(String[] args) {
         Student s1 = new Student();  // it is a default constructor
-        // and is only called is and only if wwe don't have ou own custom constructor
+        // and is only called if we don't have our own custom constructor
         // it initializes the values of all the attributes to their default values
 
 //        s1.name = "Saurabh Kaushik";
